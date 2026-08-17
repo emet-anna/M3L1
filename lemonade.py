@@ -1,4 +1,9 @@
 '''
+
+Function
+In this lesson, you explore functions in Python. You learn what a function is, discover the difference between built-in and user-defined functions, define your own functions, call them, pass arguments into them, and use return statements, all while building your own interactive lemonade stand calculator.
+
+
 Title
 My Lemonade Stand Calculator
 Short description:
